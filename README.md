@@ -8,7 +8,7 @@ to prevent interferance with the rest of the system.
 
 Usage:
 Make sure "javaw.exe" is in focus, and then simply press "F1" to toggle shift on or off  
-it is recommended to put the program in startup directory, so it's always ready. To do so:  
+it is recommended to put the program in startup directory, so it's always ready. To do so:
 1. Press win + R 
 2. Type in "Shell::Startup" 
 3. Copy and paste Perma_Crouch to the folder 
