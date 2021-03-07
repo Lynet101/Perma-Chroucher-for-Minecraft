@@ -1,5 +1,5 @@
 ##################################################   
-Perma Chroucher for Minecraft | V 1.0 | By Sebastian Lindau-Skands  
+Perma Croucher for Minecraft | V 1.0 | By Sebastian Lindau-Skands  
 ##################################################  
 
 Description:
